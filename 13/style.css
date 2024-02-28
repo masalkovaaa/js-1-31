@@ -1,0 +1,11 @@
+[data-type="success"] {
+	background-color: green;
+}
+
+[data-type="warning"] {
+	background-color: yellow;
+}
+
+[data-type="error"] {
+	background-color: red;
+}
